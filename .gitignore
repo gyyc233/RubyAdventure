@@ -2,10 +2,11 @@
 Logs/
 relsece/
 obj/
+Assets/Art/
+Assets/Gizmos/
 UpgradeLog*
 *.meta
 *.anim
-*.png
 *.wav
 *.asset
 *.Log

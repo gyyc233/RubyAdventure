@@ -1,0 +1,17 @@
+.vs/
+Logs/
+relsece/
+obj/
+UpgradeLog*
+*.meta
+*.anim
+*.png
+*.wav
+*.asset
+*.Log
+*.info
+Library/
+*.prefab
+*.unity
+*.mat
+*.controller
